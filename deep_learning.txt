@@ -1,0 +1,163 @@
+# Plan d'Étude Deep Learning - 4 Semaines
+## 2 heures par jour
+
+---
+
+## 📅 **SEMaine 1 : Fondations du Deep Learning**
+**Objectif : Comprendre les concepts de base et les mathématiques essentielles**
+
+### Jour 1-2 : Bases des réseaux de neurones
+**Théorie (45min)**
+- Neurone artificiel et perceptron                  
+- Fonctions d'activation (sigmoid, tanh, ReLU)
+- Architecture réseau de neurones simple
+
+**Pratique (1h15)**
+- Implémentation d'un perceptron en Python
+- Visualisation des fonctions d'activation
+
+### Jour 3-4 : Mathématiques fondamentales
+**Théorie (30min)**
+- Algèbre linéaire : vecteurs, matrices
+- Calcul différentiel : dérivées, gradient
+
+**Pratique (1h30)**
+- Opérations matricielles avec NumPy
+- Calcul manuel de gradients
+
+### Jour 5-7 : Rétropropagation et entraînement
+**Théorie (1h)**
+- Algorithme de rétropropagation
+- Descente de gradient
+- Fonctions de coût (MSE, Cross-Entropy)
+
+**Pratique (1h)**
+- Implémentation rétropropagation
+- Projet : Réseau neuronal from scratch
+
+---
+
+## 📅 **SEMaine 2 : Réseaux de Neurones Convolutifs (CNN)**
+**Objectif : Maîtriser le traitement d'images**
+
+### Jour 1-2 : Concepts des CNN
+**Théorie (45min)**
+- Convolutions, pooling, padding
+- Architecture LeNet, AlexNet
+
+**Pratique (1h15)**
+- Implémentation couches convolutionnelles
+- Visualisation feature maps
+
+### Jour 3-4 : Architectures modernes
+**Théorie (45min)**
+- VGG, ResNet, Inception
+- Transfer learning
+- Data augmentation
+
+**Pratique (1h15)**
+- Fine-tuning modèle pré-entraîné
+- Techniques d'augmentation données
+
+### Jour 5-7 : Projet CNN complet
+**Projet (2h)**
+- Classification images CIFAR-10
+- Pipeline données complet
+- Évaluation performances
+
+---
+
+## 📅 **SEMaine 3 : Réseaux Récurrents et Transformers**
+**Objectif : Traitement des séquences et langage naturel**
+
+### Jour 1-2 : RNN et LSTM
+**Théorie (45min)**
+- Architecture RNN
+- LSTM et GRU
+- Gradient vanishing/exploding
+
+**Pratique (1h15)**
+- Prédiction séries temporelles
+- Implémentation LSTM
+
+### Jour 3-4 : Attention et Transformers
+**Théorie (45min)**
+- Mécanisme d'attention
+- Architecture Transformer
+- Positional encoding
+
+**Pratique (1h15)**
+- Layer d'attention simple
+- Visualisation weights d'attention
+
+### Jour 5-7 : NLP moderne
+**Théorie (30min)**
+- Word embeddings
+- Architectures BERT/GPT
+- Tokenization
+
+**Pratique (1h30)**
+- Projet classification texte
+- Utilisation embeddings pré-entraînés
+
+---
+
+## 📅 **SEMaine 4 : Applications Avancées et Déploiement**
+**Objectif : Consolider et appliquer les connaissances**
+
+### Jour 1-2 : Architectures génératives
+**Théorie (45min)**
+- Autoencodeurs (VAE)
+- GANs (Generative Adversarial Networks)
+- Diffusion Models
+
+**Pratique (1h15)**
+- Autoencodeur simple
+- Génération images avec GAN
+
+### Jour 3-4 : Optimisation et déploiement
+**Théorie (30min)**
+- Hyperparameter tuning
+- Regularization
+- Déploiement modèles
+
+**Pratique (1h30)**
+- Grid search hyperparamètres
+- Préparation modèle déploiement
+
+### Jour 5-7 : Projet final
+**Projet intégrateur (2h)**
+- Choix projet personnel
+- Pipeline complet
+- Présentation résultats
+
+---
+
+## 🛠️ **Outils et Ressources**
+
+### Environnement de développement
+- **Python 3.8+**
+- **Google Colab** (recommandé pour débutants)
+- **Jupyter Notebook**
+- **VS Code** avec extension Python
+
+### Librairies principales
+```python
+# Core DL
+torch ou tensorflow
+torchvision
+transformers
+
+# Data processing
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+
+
+KGAT_1a8453d86220d136a81e64b78e1d1817
