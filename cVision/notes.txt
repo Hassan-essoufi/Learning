@@ -8,11 +8,11 @@ PHASE 0 – PREREQUISITES
 
 Mathematics (only essentials):
 
-Euclidean distance
+Euclidean distance + 
 
-Cosine similarity
+Cosine similarity +
 
-Loss functions
+Loss functions 
 
 Difference between softmax and metric learning
 
